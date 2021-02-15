@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>web portfolio:Okoth</title>
+</head>
+<body>
+      
+<a href="index.html">/leah>
+<a href="projects.html">projects</a>
+<a href="about.html"></a>About</a>
+<a href="services.html">services</a>
+<a href="blog.html">Blog</a>
+<a href="contact.html">Contact</a>
+
+<h1> i am Okoth</h1>
+<p> 
+    <em>Aweb developer</em>> with a 2+ years<strong>of experience in</strong> developing websites.
+</p>  
+
+<img src="/images/leah.jpg" alt="leah.jpg" width="300" height="300"/>
+<ul>
+<li><a href="https://instagram.com" target="blank"> Instragram</a></li>
+<li><a href="https://twitter.com"target="blank">Twitter</a><li>
+<li><a href="https://linked in.com" target="blank">Linked in</a><li>
+<li><a href="https:github.com" target="blank">Github</a><li>
+</ul>
+<blackquote>
+<p> Abraham Lincoln said:</p>
+<blackquote>
+     Fourscore and seven years ago,ourforefathers bought forth on this <br>continent a new Nation, conceived in
+      liberty, and dedictated to the proposition that all men are created equally.
+</blackquote>
+
+<p> &copy;2021.All Right Reserved.&trade;leah </P>
+<p>
+    The<code> ul</code>code>and<code>ol>tags make a list
+</p>
+<meta name="description"
+     content="Okoth:Fullstack web developer"/>
+<link rel="shortcut icon" href="images/favicon.ico"/>
+        
+
+</body>
+</html>
